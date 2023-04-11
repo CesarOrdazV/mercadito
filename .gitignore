@@ -1,0 +1,4 @@
+# Ignore the Python env
+/env/
+# Ignore Python cache
+**/__pycache__/
